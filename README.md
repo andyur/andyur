@@ -10,8 +10,8 @@ I work out the product model first and the interface after. Where it is quicker 
 
 ## Work with me
 
-- [Product Diagnosis](https://ayurchenko.xyz/product-diagnosis): one week on your product, the data and the roadmap, and a written answer on what to keep, cut, change and do next. From $3,500.
-- [Consistency Review](https://ayurchenko.xyz/design-systems): for products built fast with Cursor, Claude Code or Lovable. An inventory of what the UI actually ships, the fixes ranked, and a task list your team or agent can work through. From $1,500.
+- [Product Diagnosis](https://ayurchenko.xyz/product-diagnosis): one week on your product, the data and the roadmap, and a written answer on what to keep, cut, change and do next. From $900.
+- [Consistency Review](https://ayurchenko.xyz/design-systems): for products built fast with Cursor, Claude Code or Lovable. An inventory of what the UI actually ships, the fixes ranked, and a task list your team or agent can work through. From $700.
 - [Design systems for coding agents](https://ayurchenko.xyz/writing/design-systems-for-coding-agents): 11 agent builds, measured. What a design system still does once agents write the UI.
 
 ## Elsewhere
