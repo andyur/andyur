@@ -1,6 +1,6 @@
 # Andriy Yurchenko
 
-AI Product Architect & Designer. I work with founders and teams to define what to build and turn complex ideas into products people can use. Over 14 years, I've helped launch products across AI, fintech, and cloud infrastructure, and built businesses of my own.
+Senior product designer. I work with founders and teams to define what to build and turn complex ideas into products people can use. Over 14 years, I've helped launch products across AI, fintech, and cloud infrastructure, and built businesses of my own.
 
 I work out the product model first and the interface after. Where it is quicker to build than to explain, I write the code myself.
 
